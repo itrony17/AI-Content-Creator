@@ -1,9 +1,3 @@
-# ❌ REMOVE THIS PART (for Streamlit Cloud):
-# from dotenv import load_dotenv
-# load_dotenv()
-# GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-
-# ✅ USE THIS INSTEAD:
 import streamlit as st
 import os
 import google.generativeai as genai
