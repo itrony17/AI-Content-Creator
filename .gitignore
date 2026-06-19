@@ -1,0 +1,15 @@
+# Environment files - NEVER upload these!
+.env
+.env.local
+.env.*.local
+
+# Streamlit secrets - NEVER upload this!
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
